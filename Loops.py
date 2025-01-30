@@ -111,14 +111,14 @@ while True:
     print("-" * 50)
     print(" ***** Thank you! Visit Again ************")
 
-#     repeat1 = input("Do you want to go to next customer? (yes/no):" )
-#     if repeat1 == "no" or  repeat1 == "NO" :
-#         break
-#
-# a = "I am born to write history"
-# print(a.count("o"))
-# z = a.find("write")
-# print(z)
+    repeat1 = input("Do you want to go to next customer? (yes/no):" )
+    if repeat1 == "no" or  repeat1 == "NO" :
+        break
+
+a = "I am born to write history"
+print(a.count("o"))
+z = a.find("write")
+print(z)
 
 # Q) Display star pattern
 for i in range(1,7): # Rows

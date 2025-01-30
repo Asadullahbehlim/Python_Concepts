@@ -15,7 +15,7 @@ elif mark >= 80 and mark <90:
 else:
    print("fail")
 
-# Q1) Write aprogram to check if no. is positive
+# Q1) Write a program to check if no. is positive
 
 no = 78
 if no >= 1:
