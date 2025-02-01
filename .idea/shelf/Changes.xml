@@ -1,0 +1,76 @@
+<changelist name="Changes" date="1738264988639" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" />
+  <option name="DESCRIPTION" value="Changes" />
+  <binary>
+    <option name="AFTER_PATH" value=".venv/.Python" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/.Python" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/setuptools/cli.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/cli.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/setuptools/cli-32.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/cli-32.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/setuptools/cli-64.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/cli-64.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/setuptools/cli-arm64.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/cli-arm64.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/setuptools/gui.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/gui.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/setuptools/gui-32.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/gui-32.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/setuptools/gui-64.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/gui-64.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/setuptools/gui-arm64.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/gui-arm64.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/bin/python" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/python" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/bin/python3" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/python3" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/bin/python3.9" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/python3.9" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/pip/_vendor/distlib/t32.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/t32.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/pip/_vendor/distlib/t64.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/t64.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/pip/_vendor/distlib/t64-arm.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/t64-arm.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/pip/_vendor/distlib/w32.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/w32.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/pip/_vendor/distlib/w64.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/w64.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.9/site-packages/pip/_vendor/distlib/w64-arm.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Changes/w64-arm.exe" />
+  </binary>
+</changelist>
