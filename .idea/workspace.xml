@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Practice Qs Added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tuple&amp;Dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tuple&amp;Dict.py" afterDir="false" />
-    </list>
+    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Tuple Added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -269,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738428883347</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Tuple Added">
+      <option name="closed" value="true" />
+      <created>1738524393096</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738524393096</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -277,6 +282,7 @@
     <MESSAGE value="Comment Out Code optimization Updated" />
     <MESSAGE value="List Updated" />
     <MESSAGE value="Practice Qs Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice Qs Added" />
+    <MESSAGE value="Tuple Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tuple Added" />
   </component>
 </project>
