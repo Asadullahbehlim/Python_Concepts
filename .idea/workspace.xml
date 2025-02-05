@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Tuple Added" />
+    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Tuple Added">
+      <change afterPath="$PROJECT_DIR$/PS_JSON.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple&amp;Dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tuple&amp;Dict.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +25,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -49,38 +53,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Basic_Part.executor&quot;: &quot;Run&quot;,
-    &quot;Python.If_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PS_Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PS_Sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Problem_Solving.executor&quot;: &quot;Run&quot;,
-    &quot;Python.String.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Tuple&amp;Dict.executor&quot;: &quot;Run&quot;,
-    &quot;Python.new_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pip-3.9.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/asadullahbehlim/PycharmProjects/PythonProject&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Basic_Part.executor": "Run",
+    "Python.If_else.executor": "Run",
+    "Python.List.executor": "Run",
+    "Python.Lists.executor": "Run",
+    "Python.Loops.executor": "Run",
+    "Python.PS_JSON.executor": "Run",
+    "Python.PS_Lists.executor": "Run",
+    "Python.PS_Sort.executor": "Run",
+    "Python.Problem_Solving.executor": "Run",
+    "Python.Sets.executor": "Run",
+    "Python.String.executor": "Run",
+    "Python.Tuple&Dict.executor": "Run",
+    "Python.new_test.executor": "Run",
+    "Python.pip-3.9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/asadullahbehlim/PycharmProjects/PythonProject",
+    "settings.editor.selected.configurable": "advanced.settings"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;PLAIN_TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Tuple&amp;Dict">
+  <component name="RunManager" selected="Python.Sets">
     <configuration name="List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -103,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PS_JSON" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,12 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.9 (PythonProject)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PS_JSON.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/String.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sets" />
+        <item itemvalue="Python.PS_JSON" />
         <item itemvalue="Python.Tuple&amp;Dict" />
         <item itemvalue="Python.PS_Lists" />
         <item itemvalue="Python.List" />
-        <item itemvalue="Python.Lists" />
-        <item itemvalue="Python.String" />
       </list>
     </recent_temporary>
   </component>
@@ -274,8 +279,27 @@
       <option name="project" value="LOCAL" />
       <updated>1738524393096</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Tuple Added">
+      <option name="closed" value="true" />
+      <created>1738524431350</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738524431350</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python Basic Concepts" />
