@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Tuple Added">
-      <change afterPath="$PROJECT_DIR$/PS_JSON.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sets.py" afterDir="false" />
+    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Functions &amp; Problem Solving">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tuple&amp;Dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tuple&amp;Dict.py" afterDir="false" />
     </list>
@@ -56,24 +54,30 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Basic_Part.executor": "Run",
+    "Python.Functions.executor": "Run",
     "Python.If_else.executor": "Run",
     "Python.List.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.Loops.executor": "Run",
+    "Python.Modules.executor": "Run",
+    "Python.Numpy.executor": "Run",
+    "Python.Numpy_concept.executor": "Run",
     "Python.PS_JSON.executor": "Run",
     "Python.PS_Lists.executor": "Run",
+    "Python.PS_Misc.executor": "Run",
     "Python.PS_Sort.executor": "Run",
     "Python.Problem_Solving.executor": "Run",
     "Python.Sets.executor": "Run",
     "Python.String.executor": "Run",
     "Python.Tuple&Dict.executor": "Run",
     "Python.new_test.executor": "Run",
+    "Python.numpy.executor": "Run",
     "Python.pip-3.9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/asadullahbehlim/PycharmProjects/PythonProject",
-    "settings.editor.selected.configurable": "advanced.settings"
+    "settings.editor.selected.configurable": "terminal"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -86,8 +90,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Sets">
-    <configuration name="List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Numpy_concept">
+    <configuration name="Numpy_concept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Numpy_concept.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Numpy_concept" />
         <item itemvalue="Python.Sets" />
         <item itemvalue="Python.PS_JSON" />
         <item itemvalue="Python.Tuple&amp;Dict" />
         <item itemvalue="Python.PS_Lists" />
-        <item itemvalue="Python.List" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +291,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738524431350</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Problem Solving Added">
+      <option name="closed" value="true" />
+      <created>1738743661147</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738743661147</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Functions &amp; Problem Solving">
+      <option name="closed" value="true" />
+      <created>1738763750239</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738763750239</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,6 +327,8 @@
     <MESSAGE value="List Updated" />
     <MESSAGE value="Practice Qs Added" />
     <MESSAGE value="Tuple Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tuple Added" />
+    <MESSAGE value="Problem Solving Added" />
+    <MESSAGE value="Functions &amp; Problem Solving" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functions &amp; Problem Solving" />
   </component>
 </project>

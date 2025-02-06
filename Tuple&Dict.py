@@ -78,3 +78,4 @@ Employee = { 1: { "name": "abd", "age":"38"},
 print(Employee[2]["name"])
 
 
+
