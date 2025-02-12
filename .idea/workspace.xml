@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Modules Added">
+    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Numpy Added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Numpy_concept.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy_concept.py" afterDir="false" />
     </list>
@@ -67,12 +67,15 @@
     "Python.PS_Lists.executor": "Run",
     "Python.PS_Misc.executor": "Run",
     "Python.PS_Sort.executor": "Run",
+    "Python.Pandas.executor": "Run",
+    "Python.Pivot_Melting.executor": "Run",
     "Python.Problem_Solving.executor": "Run",
     "Python.Sets.executor": "Run",
     "Python.String.executor": "Run",
     "Python.Tuple&Dict.executor": "Run",
     "Python.new_test.executor": "Run",
     "Python.numpy.executor": "Run",
+    "Python.pandas2.executor": "Run",
     "Python.pip-3.9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -316,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738841186738</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Numpy Added">
+      <option name="closed" value="true" />
+      <created>1739263603124</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739263603124</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,6 +350,7 @@
     <MESSAGE value="Problem Solving Added" />
     <MESSAGE value="Functions &amp; Problem Solving" />
     <MESSAGE value="Modules Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modules Added" />
+    <MESSAGE value="Numpy Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Numpy Added" />
   </component>
 </project>

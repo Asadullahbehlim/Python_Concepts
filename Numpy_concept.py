@@ -1,5 +1,7 @@
 import numpy as np
 
+# Numpy -> Used for mathematical & statistical calculation
+
 l1 = np.array([20, 30, 40,50])
 l2 = np.array([40, 30, 70,37])
 b  = print(l1*l2)
