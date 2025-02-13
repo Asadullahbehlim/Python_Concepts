@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Numpy Added">
+    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Pandas Transformation (Concat, Join, Group By)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numpy_concept.py" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy_concept.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pivot_Melting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pivot_Melting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,44 +52,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Basic_Part.executor": "Run",
-    "Python.Functions.executor": "Run",
-    "Python.If_else.executor": "Run",
-    "Python.List.executor": "Run",
-    "Python.Lists.executor": "Run",
-    "Python.Loops.executor": "Run",
-    "Python.Modules.executor": "Run",
-    "Python.Numpy.executor": "Run",
-    "Python.Numpy2.executor": "Run",
-    "Python.Numpy_concept.executor": "Run",
-    "Python.PS_JSON.executor": "Run",
-    "Python.PS_Lists.executor": "Run",
-    "Python.PS_Misc.executor": "Run",
-    "Python.PS_Sort.executor": "Run",
-    "Python.Pandas.executor": "Run",
-    "Python.Pivot_Melting.executor": "Run",
-    "Python.Problem_Solving.executor": "Run",
-    "Python.Sets.executor": "Run",
-    "Python.String.executor": "Run",
-    "Python.Tuple&Dict.executor": "Run",
-    "Python.new_test.executor": "Run",
-    "Python.numpy.executor": "Run",
-    "Python.pandas2.executor": "Run",
-    "Python.pip-3.9.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/asadullahbehlim/PycharmProjects/PythonProject",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Basic_Part.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.If_else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Modules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Numpy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Numpy2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Numpy_concept.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PS_JSON.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PS_Lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PS_Misc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PS_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pivot_Melting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Problem_Solving.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple&amp;Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pip-3.9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/asadullahbehlim/PycharmProjects/PythonProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -327,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739263603124</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Pandas Transformation (Concat, Join, Group By)">
+      <option name="closed" value="true" />
+      <created>1739373160360</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739373160360</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,6 +360,7 @@
     <MESSAGE value="Functions &amp; Problem Solving" />
     <MESSAGE value="Modules Added" />
     <MESSAGE value="Numpy Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Numpy Added" />
+    <MESSAGE value="Pandas Transformation (Concat, Join, Group By)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pandas Transformation (Concat, Join, Group By)" />
   </component>
 </project>

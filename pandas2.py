@@ -73,7 +73,8 @@ data2 = {"Cricketer_Name": ["Abd","symonds","kohli","kallis" ],
 df1 = pd.DataFrame(data1)
 df2 = pd.DataFrame(data2)
 
-result = df2.merge(df1)
+#result = df2.merge(df1)  # Easy Approach
+result = pd.merge(df1,df2, on = "Cricketer_Name")
 print(result)
 
 
