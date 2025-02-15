@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Pandas Transformation (Concat, Join, Group By)">
+    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Pandas Completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pivot_Melting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pivot_Melting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,9 @@
     &quot;Python.List.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lists.executor&quot;: &quot;Run&quot;,
     &quot;Python.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matplot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matplot2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Matplot_Box.executor&quot;: &quot;Run&quot;,
     &quot;Python.Modules.executor&quot;: &quot;Run&quot;,
     &quot;Python.Numpy.executor&quot;: &quot;Run&quot;,
     &quot;Python.Numpy2.executor&quot;: &quot;Run&quot;,
@@ -69,8 +70,10 @@
     &quot;Python.PS_Misc.executor&quot;: &quot;Run&quot;,
     &quot;Python.PS_Sort.executor&quot;: &quot;Run&quot;,
     &quot;Python.Pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PieChart.executor&quot;: &quot;Run&quot;,
     &quot;Python.Pivot_Melting.executor&quot;: &quot;Run&quot;,
     &quot;Python.Problem_Solving.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ScatterPlot.executor&quot;: &quot;Run&quot;,
     &quot;Python.Sets.executor&quot;: &quot;Run&quot;,
     &quot;Python.String.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tuple&amp;Dict.executor&quot;: &quot;Run&quot;,
@@ -336,7 +339,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739373160360</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Pandas Completed">
+      <option name="closed" value="true" />
+      <created>1739432452264</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1739432452264</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,6 +372,7 @@
     <MESSAGE value="Modules Added" />
     <MESSAGE value="Numpy Added" />
     <MESSAGE value="Pandas Transformation (Concat, Join, Group By)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pandas Transformation (Concat, Join, Group By)" />
+    <MESSAGE value="Pandas Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pandas Completed" />
   </component>
 </project>
