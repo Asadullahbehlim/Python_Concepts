@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Pandas Completed">
+    <list default="true" id="cf4bcea4-f60e-4b6a-b9b0-8c586d6725e7" name="Changes" comment="Matplot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +74,7 @@
     &quot;Python.Pivot_Melting.executor&quot;: &quot;Run&quot;,
     &quot;Python.Problem_Solving.executor&quot;: &quot;Run&quot;,
     &quot;Python.ScatterPlot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Seaborn.executor&quot;: &quot;Run&quot;,
     &quot;Python.Sets.executor&quot;: &quot;Run&quot;,
     &quot;Python.String.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tuple&amp;Dict.executor&quot;: &quot;Run&quot;,
@@ -347,7 +348,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739432452264</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Matplot Completed">
+      <option name="closed" value="true" />
+      <created>1739619024012</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1739619024012</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Matplot">
+      <option name="closed" value="true" />
+      <created>1739619036002</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1739619036002</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,6 +390,8 @@
     <MESSAGE value="Numpy Added" />
     <MESSAGE value="Pandas Transformation (Concat, Join, Group By)" />
     <MESSAGE value="Pandas Completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pandas Completed" />
+    <MESSAGE value="Matplot Completed" />
+    <MESSAGE value="Matplot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Matplot" />
   </component>
 </project>
